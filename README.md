@@ -4,6 +4,12 @@ Ai.Teach is a high-fidelity, production-ready AI SaaS platform designed to reinv
 
 ![Ai.Teach Banner](https://images.unsplash.com/photo-1501504905252-473c47e087f8?auto=format&fit=crop&q=80&w=1600)
 
+## 🎥 Project Demo
+Check out the Ai.Teach platform in action:
+
+[![Ai.Teach Demo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+*(Replace the link above with your actual demo recording link)*
+
 ## ✨ Core Features
 
 - **🎙️ Speech-to-Text**: High-fidelity real-time transcription of lectures with speaker identification.
