@@ -3,7 +3,7 @@
 ## 🎥 Platform Demo
 Check out Ai.Teach in action:
 
-https://github.com/AlFaizCodes/Ai.teach/raw/main/demo.mp4
+![Ai.Teach Demo](demo.mp4)
 
 ---
 
