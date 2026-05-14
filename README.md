@@ -3,7 +3,9 @@
 ## 🎥 Platform Demo
 Check out Ai.Teach in action:
 
-<video src="demo.mp4" width="100%" controls></video>
+https://github.com/AlFaizCodes/Ai.teach/raw/main/demo.mp4
+
+---
 
 Ai.Teach is a high-fidelity, production-ready AI SaaS platform designed to reinvent the classroom experience. It transforms voice lectures into actionable insights, structured study notes, and interactive quizzes using advanced Azure AI services and GPT-4o.
 
