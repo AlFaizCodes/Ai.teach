@@ -1,16 +1,11 @@
 # Ai.Teach - The Ultimate AI Teacher Assistant 🚀
 
-Ai.Teach is a high-fidelity, production-ready AI SaaS platform designed to reinvent the classroom experience. It transforms voice lectures into actionable insights, structured study notes, and interactive quizzes using advanced Azure AI services and GPT-4o.
-
-![Ai.Teach Banner](https://images.unsplash.com/photo-1501504905252-473c47e087f8?auto=format&fit=crop&q=80&w=1600)
-
-## 🎥 Project Demo
-Check out the Ai.Teach platform in action:
-
-https://github.com/AlFaizCodes/Ai.teach/assets/demo.mp4
-*(Wait, I'll use the raw link or just embed it)*
+## 🎥 Platform Demo
+Check out Ai.Teach in action:
 
 <video src="demo.mp4" width="100%" controls></video>
+
+Ai.Teach is a high-fidelity, production-ready AI SaaS platform designed to reinvent the classroom experience. It transforms voice lectures into actionable insights, structured study notes, and interactive quizzes using advanced Azure AI services and GPT-4o.
 
 ## ✨ Core Features
 
