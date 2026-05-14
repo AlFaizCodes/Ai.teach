@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-background text-white antialiased selection:bg-cyan-glow selection:text-black;
+    font-family: 'Inter', sans-serif;
+  }
+}
+
+@layer components {
+  .glass {
+    @apply bg-white/5 backdrop-blur-xl border border-white/10;
+  }
+  
+  .glass-card {
+    @apply glass rounded-2xl p-6 transition-all duration-300 hover:border-cyan-glow/50 hover:bg-white/10;
+  }
+
+  .neon-button {
+    @apply bg-cyan-glow text-black font-bold px-6 py-2 rounded-full shadow-[0_0_15px_rgba(0,229,255,0.4)] transition-all duration-300 hover:shadow-[0_0_25px_rgba(0,229,255,0.6)] hover:scale-105 active:scale-95;
+  }
+
+  .neon-text {
+    @apply text-cyan-glow drop-shadow-[0_0_8px_rgba(0,229,255,0.5)];
+  }
+
+  .dashboard-sidebar {
+    @apply fixed left-0 top-0 h-full w-64 glass border-r border-white/5 p-4 flex flex-col gap-4 z-50;
+  }
+}
+
+.gradient-bg {
+  background: radial-gradient(circle at 50% 50%, rgba(124, 58, 237, 0.1) 0%, rgba(5, 8, 22, 1) 100%);
+}
+
+.cursor-spotlight {
+  position: fixed;
+  width: 600px;
+  height: 600px;
+  background: radial-gradient(circle at center, rgba(0, 229, 255, 0.05) 0%, transparent 70%);
+  pointer-events: none;
+  z-index: 1;
+  transform: translate(-50%, -50%);
+}
