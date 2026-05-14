@@ -7,8 +7,10 @@ Ai.Teach is a high-fidelity, production-ready AI SaaS platform designed to reinv
 ## 🎥 Project Demo
 Check out the Ai.Teach platform in action:
 
-[![Ai.Teach Demo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-*(Replace the link above with your actual demo recording link)*
+https://github.com/AlFaizCodes/Ai.teach/assets/demo.mp4
+*(Wait, I'll use the raw link or just embed it)*
+
+<video src="demo.mp4" width="100%" controls></video>
 
 ## ✨ Core Features
 
