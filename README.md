@@ -3,9 +3,7 @@
 ## 🎥 Platform Demo
 Check out Ai.Teach in action:
 
-<div align="center">
-  <video src="https://github.com/AlFaizCodes/Ai.teach/raw/main/demo.mp4" width="100%" autoplay loop muted></video>
-</div>
+![Ai.Teach Demo](demo.gif)
 
 ---
 
